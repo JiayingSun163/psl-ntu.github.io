@@ -34,9 +34,9 @@ Contact: <ins>*chen.wang AT ntu.edu.sg*</ins>
 <div class="people">
 
   <div class="person">
-    <img class="headshot" src="/static/images/people/placeholder.svg" alt="Wenzhao Wu">
+    <img class="headshot" src="/static/images/people/wenzhao-wu.jpg" alt="Wenzhao Wu">
     <div class="p-body">
-      <div class="p-name"><a>Wenzhao Wu</a></div>
+      <div class="p-name"><a href="https://scholar.google.com/citations?user=91WzthEAAAAJ" target="_blank">Wenzhao Wu</a></div>
       <div class="p-role">Ph.D. Student</div>
     </div>
   </div>
