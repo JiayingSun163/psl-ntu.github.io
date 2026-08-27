@@ -50,9 +50,9 @@ Contact: <ins>*chen.wang AT ntu.edu.sg*</ins>
   </div>
 
   <div class="person">
-    <img class="headshot" src="/static/images/people/placeholder.svg" alt="Haoxuan Wang">
+    <img class="headshot" src="/static/images/people/haoxuan.jpg" alt="Haoxuan Wang">
     <div class="p-body">
-      <div class="p-name"><a>Haoxuan Wang</a></div>
+      <div class="p-name"><a href="https://github.com/botbw" target="_blank">Haoxuan Wang</a></div>
       <div class="p-role">Research Assistant</div>
     </div>
   </div>
