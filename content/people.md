@@ -71,13 +71,30 @@ Contact: <ins>*chen.wang AT ntu.edu.sg*</ins>
 
 ---
 
-### Student Cluster Competition Team
+### NTU HPC-AI Club
 
-<!-- TODO: fill in undergraduate researchers and SCC team members. -->
-<!--
-- **Full Name** — Undergraduate researcher / SCC team. Working on <topic>.
--->
-We co-advise NTU's [Student Cluster Competition team](https://ntuhpc.org).
+NTU HPC-AI Club ([Website](https://ntuhpc.org), [LinkedIn](https://sg.linkedin.com/company/ntu-hpc)) is a student-run club under CCDS. Driven by curiosity and a hands-on philosophy,
+members build and tune real cluster systems, compete in international student cluster competitions, and develop deep expertise
+across the full computing stack — from Linux and job schedulers to GPU workloads and AI applications.
+
+I co-advise the club alongside faculty colleagues. The team competes at [ISC High Performance](https://www.isc-hpc.com/), 
+[SC](https://supercomputing.org/), [ASC](http://www.asc-events.org/), and the APAC HPC-AI Competition, and has accumulated
+**27+ awards** over 12+ years of operation. Recent highlights include a **1st place finish at ISC 2026** (onsite) and
+2nd place in the ISC 2026 virtual competition.
+
+<div class="club-photos">
+  <!-- Drop competition photos into static/static/images/club/ and update the src paths below. -->
+  <!-- Suggested: a team group shot, a cluster build/competition floor shot, an award ceremony shot. -->
+  <figure>
+    <img src="/static/images/club/photo1.jpeg" alt="NTU HPC/AI team">
+  </figure>
+  <figure>
+    <img src="/static/images/club/photo2.jpeg" alt="NTU HPC/AI team">
+  </figure>
+  <figure>
+    <img src="/static/images/club/photo3.jpeg" alt="NTU HPC/AI team">
+  </figure>
+</div>
 
 
 <!-- ### Alumni -->
